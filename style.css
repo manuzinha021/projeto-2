@@ -1,4 +1,5 @@
-:root {
+
+.:root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -67,6 +68,9 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
+}
+.descricao__texto {
+    color: var(--cinza-secundario);
 }
 
 
